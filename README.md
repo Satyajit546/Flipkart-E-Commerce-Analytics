@@ -60,7 +60,7 @@ The source file `Flipcart.xlsx` contains **6 relational sheets**:
 
 ## 🔍 Module 1 — Customer Churn & RFM Analysis
 
-**Notebook:** `Flipkart_Churn_analysis.ipynb`
+**Notebook:** [`Flipkart_Churn_analysis.ipynb`](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Python%20Files/Flipkart%20Churn%20analysis.ipynb%20-%20Colab.pdf)
 
 ### Objective
 Identify customers at risk of churning, segment them into actionable marketing personas using RFM scoring, and build a machine learning model to predict churn probability at the individual level.
@@ -125,7 +125,7 @@ Three models compared with 5-fold cross-validated ROC-AUC:
 
 ## 📉 Module 2 — Conversion Funnel & Drop-off Analysis
 
-**Notebook:** `Flipkart_Funnel_analysis.ipynb`
+**Notebook:** [`Flipkart_Funnel_analysis.ipynb`](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Python%20Files/Flipkart%20Funnel%20analysis.ipynb%20-%20Colab.pdf)
 
 ### Objective
 Map the end-to-end View → Add to Cart → Purchase funnel, quantify drop-off at each stage, and identify which categories, states, and payment methods convert best and worst.
@@ -162,7 +162,7 @@ Map the end-to-end View → Add to Cart → Purchase funnel, quantify drop-off a
 
 ## 📦 Module 3 — Returns Rate & Product Quality Intelligence
 
-**Notebook:** `Flipkart_return_rate_analysis.ipynb`
+**Notebook:** [`Flipkart_return_rate_analysis.ipynb`](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Python%20Files/Flipkart%20return%20rate%20analysis.ipynb%20-%20Colab.pdf)
 
 ### Objective
 Diagnose the 8% return rate, attribute it to specific products, categories, states, and return reasons, and build a Product Quality Score that flags high-risk SKUs for supply chain review.
@@ -228,7 +228,7 @@ An independent samples **T-test** compared unit prices of returned vs. non-retur
 Six interactive reports built in Power BI with slicers for **State**, **Category**, **Payment Method**, **Month**, and **Year**.
 
 ### 1. Sales Executive Summary
-![Sales Dashboard](dashboards/Sales.jpg)
+![Sales Dashboard](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Powerbi%20Files/Sales.jpg)
 
 | KPI | Value |
 |---|---|
@@ -245,7 +245,7 @@ Top 5 States by Orders: Telangana · Mizoram · Gujarat · Haryana · Andhra Pra
 ---
 
 ### 2. Customer Analytics
-![Customer Dashboard](dashboards/Customer.jpg)
+![Customer Dashboard](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Powerbi%20Files/Customer.jpg)
 
 | KPI | Value |
 |---|---|
@@ -261,7 +261,7 @@ Includes: Customer Joining Rate trend (2020–2025), Top 10 customers by orders,
 ---
 
 ### 3. Funnel Analytics
-![Funnel Dashboard](dashboards/Funnel.jpg)
+![Funnel Dashboard](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Powerbi%20Files/Funnel.jpg)
 
 | KPI | Value |
 |---|---|
@@ -277,7 +277,7 @@ Includes: Monthly View-to-Cart and Cart-to-Purchase trend bars, Overall Conversi
 ---
 
 ### 4. Product Performance
-![Product Dashboard](dashboards/Product.jpg)
+![Product Dashboard](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Powerbi%20Files/Product.jpg)
 
 | KPI | Value |
 |---|---|
@@ -295,7 +295,7 @@ Includes: Category orders breakdown (donut), Gross profit by products (bar), Sta
 ---
 
 ### 5. Payment Analytics
-![Payment Dashboard](dashboards/Payment.jpg)
+![Payment Dashboard](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Powerbi%20Files/Payment.jpg)
 
 | Payment Method | Order Share | Revenue Share |
 |---|---|---|
@@ -311,7 +311,7 @@ Includes: Payment breakdown by state (stacked bar across all 28 states).
 ---
 
 ### 6. Return Analytics
-![Return Dashboard](dashboards/return.jpg)
+![Return Dashboard](https://github.com/Satyajit546/Flipkart-E-Commerce-Analytics/blob/main/Powerbi%20Files/return.jpg)
 
 | KPI | Value |
 |---|---|
