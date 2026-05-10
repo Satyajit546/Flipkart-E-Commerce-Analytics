@@ -102,9 +102,9 @@ Three models compared with 5-fold cross-validated ROC-AUC:
 
 | Model | Test AUC | CV-AUC |
 |---|---|---|
-| Logistic Regression | — | — |
-| Random Forest | — | — |
-| Gradient Boosting | — | — |
+| Logistic Regression |0.998 | 0.999 |
+| Random Forest | 1.000 | 1.000 |
+| Gradient Boosting | 1.000 | 1.000 |
 
 > *Run the notebook to see live scores — results depend on the data split.*
 
@@ -379,8 +379,8 @@ This project is for educational and portfolio purposes. The dataset is synthetic
 
 ## 🙋 Author
 
-**[Your Name]**
-Data Analyst | Python · SQL · Power BI
+**[Satyaji Maity]**
+Data Analyst | Python · Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](www.linkedin.com/in/satyajit-maity-763a0319a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
