@@ -1,0 +1,241 @@
+OrderID,Reason,CustomerID,OrderDate,PaymentMethod,ProductID,Quantity,UnitPrice,ProductName,Category,Cost,State,ReturnRevenue,ReturnMonth
+7916,Size Issue,372,2024-12-10,UPI,128,4,7232,Velit Pro,Fashion,8307,Mizoram,28928,2024-12
+7730,Wrong Product,299,2024-01-30,UPI,208,1,21082,Possimus Ultra,Sports,17206,Assam,21082,2024-01
+7299,Wrong Product,436,2025-01-10,UPI,201,2,24323,In Max,Fashion,6096,Rajasthan,48646,2025-01
+6821,Wrong Product,209,2024-07-22,Card,165,4,29252,Saepe Max,Books,17904,Kerala,117008,2024-07
+5284,Size Issue,283,2024-07-22,Card,169,3,20119,Quisquam Plus,Grocery,10803,Sikkim,60357,2024-07
+7836,Damaged,447,2025-02-28,NetBanking,120,1,22625,Nam Max,Sports,15657,Assam,22625,2025-02
+6886,Not as Described,335,2024-05-10,UPI,247,4,4371,Mollitia Ultra,Sports,19166,Haryana,17484,2024-05
+7365,Wrong Product,255,2024-04-21,COD,242,2,5527,Eligendi ,Books,10351,Manipur,11054,2024-04
+5331,Not as Described,262,2024-10-27,Card,279,2,11105,Itaque Ultra,Fashion,738,Haryana,22210,2024-10
+7753,Not as Described,462,2023-12-26,NetBanking,178,3,29387,Dolor Max,Home,5225,Andhra Pradesh,88161,2023-12
+7269,Wrong Product,380,2025-02-11,NetBanking,204,1,7923,Reiciendis Max,Sports,15626,Assam,7923,2025-02
+6099,Wrong Product,174,2025-10-07,COD,161,3,13751,Aut Max,Fashion,13775,Meghalaya,41253,2025-10
+5702,Damaged,56,2024-11-01,UPI,233,4,14291,Veniam Max,Books,11045,Telangana,57164,2024-11
+7528,Size Issue,418,2025-04-06,UPI,284,1,7439,Unde Ultra,Electronics,4734,Telangana,7439,2025-04
+7701,Not as Described,143,2025-01-02,Card,196,4,442,Aliquid Plus,Grocery,2247,Punjab,1768,2025-01
+5481,Wrong Product,299,2025-11-23,UPI,274,1,7808,Eius Max,Sports,14074,Assam,7808,2025-11
+7906,Damaged,467,2024-05-26,NetBanking,174,4,25695,Rerum Max,Books,15430,Kerala,102780,2024-05
+7453,Damaged,421,2025-11-09,NetBanking,205,2,28511,Quibusdam Plus,Fashion,3685,West Bengal,57022,2025-11
+5965,Size Issue,65,2025-06-16,Card,178,2,7486,Dolor Max,Home,5225,Bihar,14972,2025-06
+7037,Size Issue,233,2024-11-18,NetBanking,213,2,12922,Harum Pro,Books,6506,Madhya Pradesh,25844,2024-11
+6251,Wrong Product,362,2024-08-29,COD,251,3,26235,Dolor Plus,Electronics,13792,Arunachal Pradesh,78705,2024-08
+5561,Not as Described,10,2024-10-28,UPI,139,1,9341,Totam Pro,Mobiles,3949,Odisha,9341,2024-10
+5408,Damaged,50,2024-12-18,NetBanking,248,4,17072,Dolorem Max,Grocery,3629,Arunachal Pradesh,68288,2024-12
+5025,Wrong Product,294,2025-09-01,NetBanking,135,3,2902,Dolore ,Electronics,9417,Odisha,8706,2025-09
+6979,Not as Described,188,2024-06-25,COD,136,2,19710,Repellat Max,Home,993,Telangana,39420,2024-06
+7270,Damaged,403,2025-03-19,UPI,156,1,26849,Iste Pro,Electronics,8211,Chhattisgarh,26849,2025-03
+5564,Not as Described,151,2025-05-10,COD,183,4,19025,Tenetur ,Electronics,12978,Nagaland,76100,2025-05
+6286,Damaged,66,2024-12-12,UPI,107,2,23641,Nulla Plus,Mobiles,8599,Kerala,47282,2024-12
+7200,Size Issue,353,2024-04-08,NetBanking,220,3,2316,Asperiores Max,Electronics,1070,Mizoram,6948,2024-04
+5028,Damaged,197,2024-07-22,COD,116,2,13264,Maxime ,Home,18055,Goa,26528,2024-07
+6117,Not as Described,262,2024-04-20,Card,198,4,19142,A Pro,Mobiles,7488,Haryana,76568,2024-04
+6950,Size Issue,392,2025-10-12,COD,202,4,25982,Facilis ,Mobiles,11421,Jharkhand,103928,2025-10
+5761,Wrong Product,59,2024-02-28,NetBanking,169,1,6359,Quisquam Plus,Grocery,10803,Chhattisgarh,6359,2024-02
+5900,Size Issue,21,2024-10-17,NetBanking,148,2,6231,Iste Ultra,Grocery,19766,Telangana,12462,2024-10
+7884,Size Issue,165,2023-12-06,Card,200,1,10914,Corrupti Pro,Fashion,4867,Punjab,10914,2023-12
+7440,Wrong Product,450,2023-12-03,COD,137,3,17275,Harum Max,Books,2084,Tamil Nadu,51825,2023-12
+7863,Not as Described,474,2024-02-07,COD,170,4,22823,Eveniet Plus,Sports,16011,Punjab,91292,2024-02
+6385,Not as Described,139,2025-05-04,UPI,188,2,9509,Quidem Max,Fashion,13309,Sikkim,19018,2025-05
+5326,Wrong Product,480,2024-07-04,COD,189,1,7921,Autem Max,Fashion,18867,Tamil Nadu,7921,2024-07
+5242,Wrong Product,264,2024-10-25,NetBanking,126,2,906,A Plus,Home,19239,Andhra Pradesh,1812,2024-10
+5794,Size Issue,223,2025-11-24,UPI,235,2,8386,Veniam Plus,Home,5837,Karnataka,16772,2025-11
+5922,Not as Described,359,2024-05-01,UPI,182,3,18452,Nisi Plus,Fashion,17852,Haryana,55356,2024-05
+5716,Not as Described,154,2025-10-08,UPI,219,1,20315,Distinctio ,Fashion,12259,Mizoram,20315,2025-10
+6290,Damaged,460,2025-07-30,NetBanking,188,4,27346,Quidem Max,Fashion,13309,Sikkim,109384,2025-07
+7750,Damaged,13,2025-02-10,COD,138,1,26243,Neque ,Mobiles,8088,Rajasthan,26243,2025-02
+5852,Not as Described,46,2025-06-09,COD,253,3,4185,Repudiandae Ultra,Sports,15530,Himachal Pradesh,12555,2025-06
+5898,Not as Described,230,2023-12-08,UPI,101,1,10085,Suscipit ,Home,6254,Madhya Pradesh,10085,2023-12
+7698,Size Issue,488,2025-07-15,NetBanking,168,3,2007,Maiores ,Books,18990,Tripura,6021,2025-07
+6483,Not as Described,485,2025-05-09,UPI,169,4,28887,Quisquam Plus,Grocery,10803,Goa,115548,2025-05
+5111,Not as Described,372,2025-08-16,UPI,279,2,21491,Itaque Ultra,Fashion,738,Mizoram,42982,2025-08
+7799,Damaged,293,2024-03-25,Card,295,1,8240,Esse Max,Sports,4773,Kerala,8240,2024-03
+5493,Not as Described,309,2025-06-24,UPI,167,4,26788,Explicabo Plus,Books,14995,Mizoram,107152,2025-06
+5991,Damaged,438,2025-05-21,UPI,176,4,22805,Placeat Plus,Books,5647,Tripura,91220,2025-05
+5507,Wrong Product,401,2023-12-17,NetBanking,142,4,1785,Possimus Plus,Fashion,5870,Telangana,7140,2023-12
+5625,Not as Described,274,2025-07-07,UPI,256,4,2788,Veritatis Max,Books,17446,Nagaland,11152,2025-07
+5847,Not as Described,284,2024-02-14,NetBanking,241,4,26625,At ,Books,17409,Bihar,106500,2024-02
+7875,Damaged,167,2025-07-26,NetBanking,281,1,16292,Asperiores Plus,Fashion,815,Bihar,16292,2025-07
+5197,Size Issue,66,2024-12-09,Card,157,4,14670,Similique Max,Fashion,6690,Kerala,58680,2024-12
+5246,Not as Described,447,2024-11-06,COD,286,4,14121,Officiis Pro,Home,13743,Assam,56484,2024-11
+6746,Wrong Product,455,2025-03-18,Card,259,1,24312,Aperiam ,Books,18173,Goa,24312,2025-03
+7306,Wrong Product,83,2024-06-25,Card,284,4,3031,Unde Ultra,Electronics,4734,Karnataka,12124,2024-06
+7733,Damaged,253,2025-01-10,COD,298,4,17392,Voluptatem ,Mobiles,12900,Punjab,69568,2025-01
+7516,Not as Described,490,2024-12-06,Card,108,1,24043,Eveniet Pro,Mobiles,16069,Manipur,24043,2024-12
+5573,Damaged,490,2025-04-13,UPI,114,2,10246,Sequi Pro,Home,13966,Manipur,20492,2025-04
+5739,Wrong Product,78,2025-08-08,Card,231,1,27331,Corporis ,Electronics,13642,Kerala,27331,2025-08
+7947,Damaged,293,2025-03-02,Card,286,4,20075,Officiis Pro,Home,13743,Kerala,80300,2025-03
+7422,Wrong Product,224,2025-08-12,COD,132,3,9054,Soluta Ultra,Fashion,12472,Uttarakhand,27162,2025-08
+6607,Not as Described,241,2024-02-06,Card,253,3,13164,Repudiandae Ultra,Sports,15530,Rajasthan,39492,2024-02
+5221,Size Issue,83,2025-04-04,NetBanking,246,1,20875,Voluptatum Ultra,Books,1208,Karnataka,20875,2025-04
+5829,Not as Described,213,2024-05-21,UPI,122,4,25131,Iure Ultra,Fashion,10999,Mizoram,100524,2024-05
+5504,Not as Described,416,2025-02-18,NetBanking,275,2,18298,Modi Plus,Books,4141,Chhattisgarh,36596,2025-02
+7117,Wrong Product,286,2025-05-11,Card,107,4,21800,Nulla Plus,Mobiles,8599,Mizoram,87200,2025-05
+7629,Size Issue,189,2024-12-18,NetBanking,149,4,16890,Ipsum Plus,Mobiles,14681,Meghalaya,67560,2024-12
+6587,Not as Described,466,2025-01-30,COD,237,2,664,Cupiditate Pro,Mobiles,19559,Maharashtra,1328,2025-01
+5146,Not as Described,172,2024-03-29,COD,131,4,697,Alias Plus,Mobiles,16340,Karnataka,2788,2024-03
+7631,Wrong Product,317,2024-11-28,NetBanking,167,4,23622,Explicabo Plus,Books,14995,Gujarat,94488,2024-11
+6728,Size Issue,411,2025-09-08,NetBanking,210,1,29044,Saepe ,Fashion,7252,Nagaland,29044,2025-09
+7323,Wrong Product,298,2024-01-22,UPI,139,3,3824,Totam Pro,Mobiles,3949,Arunachal Pradesh,11472,2024-01
+6247,Damaged,188,2024-05-11,Card,224,1,23055,Consequuntur ,Electronics,2037,Telangana,23055,2024-05
+7663,Wrong Product,368,2024-03-08,Card,209,2,8462,Distinctio Pro,Books,18745,Arunachal Pradesh,16924,2024-03
+6201,Damaged,353,2025-09-30,Card,164,4,26469,Iste Plus,Electronics,18161,Mizoram,105876,2025-09
+5148,Not as Described,145,2024-06-06,Card,110,4,26427,Maxime Max,Sports,3983,Andhra Pradesh,105708,2024-06
+7192,Size Issue,131,2025-11-16,Card,145,3,4713,Accusamus Max,Fashion,5659,Maharashtra,14139,2025-11
+5400,Damaged,353,2024-08-18,NetBanking,112,2,22414,Nostrum ,Books,2446,Mizoram,44828,2024-08
+7114,Size Issue,184,2024-04-01,NetBanking,141,2,29647,Occaecati Pro,Fashion,11539,Karnataka,59294,2024-04
+5121,Damaged,413,2025-01-09,UPI,131,3,15273,Alias Plus,Mobiles,16340,Meghalaya,45819,2025-01
+7555,Not as Described,297,2025-06-21,NetBanking,285,4,4425,Provident Plus,Books,9866,Gujarat,17700,2025-06
+5862,Size Issue,55,2024-01-04,NetBanking,145,4,11139,Accusamus Max,Fashion,5659,Gujarat,44556,2024-01
+7003,Size Issue,91,2024-06-20,UPI,257,4,11971,Perferendis Max,Home,11258,Gujarat,47884,2024-06
+7895,Not as Described,301,2025-03-09,COD,211,1,25519,Nostrum Ultra,Fashion,18485,Uttarakhand,25519,2025-03
+5823,Size Issue,355,2025-11-28,NetBanking,263,1,21601,Minus Pro,Home,19036,Chhattisgarh,21601,2025-11
+6460,Not as Described,341,2024-02-05,Card,131,3,10755,Alias Plus,Mobiles,16340,Goa,32265,2024-02
+5022,Damaged,89,2024-09-03,NetBanking,113,1,17984,Perspiciatis Pro,Grocery,19050,Assam,17984,2024-09
+5967,Size Issue,242,2024-06-19,UPI,118,1,2043,Quos Plus,Sports,17582,Karnataka,2043,2024-06
+6170,Not as Described,317,2024-04-08,UPI,122,3,16906,Iure Ultra,Fashion,10999,Gujarat,50718,2024-04
+5853,Size Issue,86,2025-02-06,COD,163,2,10401,Ipsum Max,Grocery,19139,Nagaland,20802,2025-02
+7636,Not as Described,386,2024-10-18,UPI,262,4,13302,Veritatis ,Fashion,2499,Mizoram,53208,2024-10
+7581,Size Issue,217,2025-07-28,NetBanking,284,2,12440,Unde Ultra,Electronics,4734,Uttarakhand,24880,2025-07
+7404,Wrong Product,262,2024-01-06,Card,263,4,21251,Minus Pro,Home,19036,Haryana,85004,2024-01
+7565,Wrong Product,8,2025-09-24,UPI,249,3,6529,Voluptas Max,Books,17848,Chhattisgarh,19587,2025-09
+5873,Damaged,147,2023-12-29,NetBanking,122,1,22184,Iure Ultra,Fashion,10999,Haryana,22184,2023-12
+7089,Size Issue,143,2025-11-08,NetBanking,108,2,29935,Eveniet Pro,Mobiles,16069,Punjab,59870,2025-11
+6425,Size Issue,104,2025-01-04,NetBanking,116,4,12411,Maxime ,Home,18055,Haryana,49644,2025-01
+5755,Size Issue,370,2025-02-24,Card,228,3,28461,Quam Pro,Sports,11215,Chhattisgarh,85383,2025-02
+5795,Damaged,2,2024-09-28,NetBanking,238,4,9101,Dolores ,Books,4433,Kerala,36404,2024-09
+7999,Size Issue,373,2024-01-06,NetBanking,206,4,13735,Doloremque ,Mobiles,12186,Uttarakhand,54940,2024-01
+5776,Not as Described,93,2025-06-19,COD,184,2,27105,Porro Ultra,Electronics,6283,Manipur,54210,2025-06
+5105,Wrong Product,15,2025-02-02,Card,250,1,12399,Sit Pro,Mobiles,3763,Tamil Nadu,12399,2025-02
+6757,Damaged,449,2024-09-05,Card,219,2,22940,Distinctio ,Fashion,12259,West Bengal,45880,2024-09
+5143,Not as Described,438,2025-11-07,Card,136,1,6994,Repellat Max,Home,993,Tripura,6994,2025-11
+7072,Not as Described,280,2024-01-31,COD,161,4,25205,Aut Max,Fashion,13775,Andhra Pradesh,100820,2024-01
+5449,Damaged,474,2024-09-14,Card,274,2,29717,Eius Max,Sports,14074,Punjab,59434,2024-09
+7782,Size Issue,419,2025-09-15,UPI,155,1,24445,Magni Plus,Electronics,19867,Karnataka,24445,2025-09
+6672,Damaged,252,2024-04-19,NetBanking,196,3,22409,Aliquid Plus,Grocery,2247,Chhattisgarh,67227,2024-04
+7035,Not as Described,60,2025-05-19,NetBanking,225,4,6206,A Max,Grocery,16109,West Bengal,24824,2025-05
+5511,Size Issue,218,2024-03-08,Card,209,3,1912,Distinctio Pro,Books,18745,Tripura,5736,2024-03
+6328,Wrong Product,452,2025-07-05,Card,192,1,28591,Voluptatem Plus,Books,14798,Chhattisgarh,28591,2025-07
+5288,Not as Described,76,2025-10-21,NetBanking,207,2,20114,Deserunt Pro,Grocery,8467,Karnataka,40228,2025-10
+6640,Wrong Product,203,2025-04-24,UPI,146,2,16739,Rem Ultra,Books,5265,Mizoram,33478,2025-04
+5669,Wrong Product,132,2024-12-19,COD,124,2,20231,Dolorem ,Home,15736,Maharashtra,40462,2024-12
+6701,Damaged,17,2024-11-23,UPI,300,3,25602,Nisi Pro,Mobiles,5599,Gujarat,76806,2024-11
+5171,Wrong Product,129,2025-09-09,UPI,190,3,16503,Incidunt Plus,Sports,1126,Mizoram,49509,2025-09
+6693,Wrong Product,342,2025-01-30,Card,194,3,26559,Vel Pro,Electronics,14434,Arunachal Pradesh,79677,2025-01
+5347,Damaged,46,2025-04-16,NetBanking,150,2,22167,Optio Max,Grocery,15616,Himachal Pradesh,44334,2025-04
+6481,Not as Described,26,2025-05-12,Card,179,3,23806,Aperiam Pro,Grocery,19575,Haryana,71418,2025-05
+5071,Size Issue,187,2025-01-19,UPI,101,1,3027,Suscipit ,Home,6254,Karnataka,3027,2025-01
+6342,Not as Described,473,2025-04-14,NetBanking,278,3,10262,Veritatis Max,Grocery,9473,Punjab,30786,2025-04
+7715,Wrong Product,452,2024-06-15,Card,229,3,10799,Neque Ultra,Grocery,16396,Chhattisgarh,32397,2024-06
+5516,Wrong Product,324,2024-09-02,Card,215,1,22752,Ab ,Electronics,15194,Madhya Pradesh,22752,2024-09
+7206,Size Issue,76,2025-09-09,Card,242,1,27169,Eligendi ,Books,10351,Karnataka,27169,2025-09
+5726,Wrong Product,442,2025-10-03,COD,203,3,20086,Assumenda Max,Grocery,15871,Meghalaya,60258,2025-10
+6479,Not as Described,94,2024-07-29,COD,185,4,4822,Esse Plus,Home,16461,Uttarakhand,19288,2024-07
+7977,Damaged,373,2025-05-11,NetBanking,188,3,27283,Quidem Max,Fashion,13309,Uttarakhand,81849,2025-05
+6228,Not as Described,276,2025-01-18,COD,177,2,25915,Facilis Ultra,Sports,5811,Haryana,51830,2025-01
+6218,Wrong Product,199,2023-12-13,UPI,171,3,21601,Dicta ,Books,7114,Himachal Pradesh,64803,2023-12
+7792,Not as Described,237,2024-04-15,Card,288,1,29186,Voluptatem Max,Grocery,18524,Mizoram,29186,2024-04
+5302,Wrong Product,97,2023-12-20,COD,127,3,12249,Nam Ultra,Grocery,16330,Chhattisgarh,36747,2023-12
+6542,Wrong Product,210,2025-08-29,NetBanking,208,4,17676,Possimus Ultra,Sports,17206,Andhra Pradesh,70704,2025-08
+6623,Not as Described,74,2024-01-30,NetBanking,103,2,17523,Optio Max,Grocery,2316,Jharkhand,35046,2024-01
+5508,Wrong Product,8,2024-02-18,UPI,272,1,7146,Autem Max,Grocery,15214,Chhattisgarh,7146,2024-02
+5756,Damaged,145,2025-03-16,UPI,288,2,11777,Voluptatem Max,Grocery,18524,Andhra Pradesh,23554,2025-03
+7662,Size Issue,229,2024-07-05,COD,103,1,18540,Optio Max,Grocery,2316,West Bengal,18540,2024-07
+6987,Size Issue,467,2025-09-20,UPI,297,3,19769,Corrupti Plus,Mobiles,11504,Kerala,59307,2025-09
+7116,Size Issue,294,2025-10-21,Card,222,4,25690,Numquam Plus,Home,12792,Odisha,102760,2025-10
+5497,Size Issue,262,2024-11-17,NetBanking,181,1,2582,Non Ultra,Books,1427,Haryana,2582,2024-11
+6109,Wrong Product,205,2024-05-23,NetBanking,252,3,13883,Animi Plus,Grocery,8399,Goa,41649,2024-05
+6223,Wrong Product,29,2025-07-27,NetBanking,278,4,2787,Veritatis Max,Grocery,9473,Gujarat,11148,2025-07
+5421,Size Issue,412,2023-12-03,Card,149,1,1277,Ipsum Plus,Mobiles,14681,Haryana,1277,2023-12
+5740,Damaged,133,2025-11-04,UPI,284,3,18838,Unde Ultra,Electronics,4734,Meghalaya,56514,2025-11
+6550,Damaged,497,2024-05-15,NetBanking,240,3,1705,Nisi Plus,Mobiles,9515,Chhattisgarh,5115,2024-05
+6473,Not as Described,475,2025-04-01,UPI,247,2,27462,Mollitia Ultra,Sports,19166,Mizoram,54924,2025-04
+5663,Damaged,442,2025-05-30,COD,186,3,2578,Enim Ultra,Grocery,15658,Meghalaya,7734,2025-05
+5615,Wrong Product,129,2025-09-26,Card,120,4,22962,Nam Max,Sports,15657,Mizoram,91848,2025-09
+6427,Wrong Product,178,2025-10-10,UPI,114,4,3419,Sequi Pro,Home,13966,Rajasthan,13676,2025-10
+5226,Size Issue,142,2025-04-03,Card,234,2,27879,Neque Ultra,Sports,10781,Andhra Pradesh,55758,2025-04
+6862,Wrong Product,321,2024-02-01,UPI,101,1,23049,Suscipit ,Home,6254,Punjab,23049,2024-02
+5471,Not as Described,5,2025-07-15,UPI,156,2,5735,Iste Pro,Electronics,8211,Goa,11470,2025-07
+5230,Wrong Product,418,2025-05-20,Card,210,2,26470,Saepe ,Fashion,7252,Telangana,52940,2025-05
+5209,Wrong Product,443,2024-09-30,UPI,184,1,7606,Porro Ultra,Electronics,6283,Assam,7606,2024-09
+5358,Not as Described,168,2025-11-01,Card,260,2,16239,Impedit Pro,Fashion,16028,Jharkhand,32478,2025-11
+7225,Wrong Product,331,2024-07-19,COD,119,2,8056,Vitae Ultra,Sports,9575,Mizoram,16112,2024-07
+5992,Not as Described,225,2025-05-08,COD,222,1,4183,Numquam Plus,Home,12792,Telangana,4183,2025-05
+6404,Size Issue,197,2025-08-18,UPI,168,2,12478,Maiores ,Books,18990,Goa,24956,2025-08
+7031,Wrong Product,193,2024-07-11,COD,248,1,2059,Dolorem Max,Grocery,3629,Punjab,2059,2024-07
+5440,Not as Described,209,2023-12-11,COD,166,1,29821,Voluptatum Ultra,Home,2693,Kerala,29821,2023-12
+7400,Damaged,264,2024-02-02,NetBanking,113,3,7001,Perspiciatis Pro,Grocery,19050,Andhra Pradesh,21003,2024-02
+6570,Damaged,161,2025-07-20,NetBanking,149,1,4831,Ipsum Plus,Mobiles,14681,Gujarat,4831,2025-07
+5859,Damaged,424,2025-11-26,COD,257,4,26595,Perferendis Max,Home,11258,Rajasthan,106380,2025-11
+5281,Not as Described,170,2025-01-19,UPI,145,4,14715,Accusamus Max,Fashion,5659,Arunachal Pradesh,58860,2025-01
+7389,Size Issue,390,2024-06-28,NetBanking,115,1,13859,At Max,Books,7882,Mizoram,13859,2024-06
+5605,Damaged,479,2025-07-28,Card,278,2,8917,Veritatis Max,Grocery,9473,Manipur,17834,2025-07
+7898,Not as Described,177,2024-09-21,COD,187,3,25653,Dolor ,Sports,12045,Telangana,76959,2024-09
+6074,Wrong Product,315,2023-12-20,Card,236,1,22813,Quas Plus,Books,1991,West Bengal,22813,2023-12
+5216,Size Issue,475,2024-04-14,Card,271,4,14981,Fugit ,Fashion,11442,Mizoram,59924,2024-04
+5245,Damaged,90,2024-11-05,Card,156,3,27988,Iste Pro,Electronics,8211,Jharkhand,83964,2024-11
+7855,Not as Described,453,2024-07-29,UPI,131,2,11305,Alias Plus,Mobiles,16340,Kerala,22610,2024-07
+6187,Size Issue,20,2025-07-23,UPI,102,2,19058,Rerum Plus,Fashion,1482,Goa,38116,2025-07
+6369,Size Issue,135,2025-07-18,NetBanking,224,1,4394,Consequuntur ,Electronics,2037,Telangana,4394,2025-07
+7660,Wrong Product,305,2024-07-13,UPI,126,3,16141,A Plus,Home,19239,Uttarakhand,48423,2024-07
+7215,Damaged,43,2025-07-29,NetBanking,167,2,17264,Explicabo Plus,Books,14995,Telangana,34528,2025-07
+6734,Not as Described,488,2025-10-11,COD,242,2,1640,Eligendi ,Books,10351,Tripura,3280,2025-10
+7978,Wrong Product,438,2025-10-05,NetBanking,138,2,10440,Neque ,Mobiles,8088,Tripura,20880,2025-10
+5233,Wrong Product,181,2025-09-11,NetBanking,274,1,25914,Eius Max,Sports,14074,West Bengal,25914,2025-09
+6276,Not as Described,52,2024-05-24,Card,183,3,11777,Tenetur ,Electronics,12978,Odisha,35331,2024-05
+7185,Damaged,314,2024-07-10,Card,161,3,12148,Aut Max,Fashion,13775,Gujarat,36444,2024-07
+7665,Damaged,436,2024-09-21,Card,147,4,17234,Nostrum Ultra,Books,5903,Rajasthan,68936,2024-09
+7241,Wrong Product,185,2024-01-05,NetBanking,182,2,2516,Nisi Plus,Fashion,17852,Jharkhand,5032,2024-01
+6751,Size Issue,120,2025-06-08,UPI,101,2,3846,Suscipit ,Home,6254,Uttarakhand,7692,2025-06
+6699,Size Issue,202,2025-04-08,Card,127,4,23264,Nam Ultra,Grocery,16330,Tripura,93056,2025-04
+5376,Size Issue,171,2024-02-08,UPI,144,3,14275,Perspiciatis Max,Fashion,13340,Gujarat,42825,2024-02
+5928,Wrong Product,290,2023-12-31,Card,140,2,13087,Consequatur Ultra,Books,9226,Tamil Nadu,26174,2023-12
+5894,Size Issue,43,2023-12-21,Card,204,3,8892,Reiciendis Max,Sports,15626,Telangana,26676,2023-12
+5952,Wrong Product,414,2024-08-17,Card,156,2,7619,Iste Pro,Electronics,8211,Bihar,15238,2024-08
+5675,Size Issue,27,2024-12-13,NetBanking,251,3,12284,Dolor Plus,Electronics,13792,Andhra Pradesh,36852,2024-12
+7431,Not as Described,78,2024-02-14,COD,254,4,2749,Nulla Pro,Grocery,896,Kerala,10996,2024-02
+6131,Not as Described,174,2025-10-25,COD,175,2,28399,In Pro,Grocery,15948,Meghalaya,56798,2025-10
+7492,Wrong Product,349,2025-09-20,NetBanking,109,1,3165,Tempora Max,Mobiles,8008,Andhra Pradesh,3165,2025-09
+5544,Not as Described,191,2024-09-20,Card,262,1,26321,Veritatis ,Fashion,2499,Uttarakhand,26321,2024-09
+5994,Not as Described,237,2024-10-14,COD,163,4,4971,Ipsum Max,Grocery,19139,Mizoram,19884,2024-10
+6145,Wrong Product,84,2024-12-30,Card,205,3,9150,Quibusdam Plus,Fashion,3685,Maharashtra,27450,2024-12
+5194,Wrong Product,73,2025-03-06,UPI,128,4,14589,Velit Pro,Fashion,8307,Sikkim,58356,2025-03
+6041,Not as Described,166,2025-06-24,COD,148,3,3328,Iste Ultra,Grocery,19766,Maharashtra,9984,2025-06
+6252,Size Issue,114,2025-03-30,UPI,111,3,9923,Ratione Max,Home,11536,Assam,29769,2025-03
+7524,Size Issue,166,2025-04-03,Card,187,3,10075,Dolor ,Sports,12045,Maharashtra,30225,2025-04
+5063,Wrong Product,217,2024-03-08,NetBanking,173,3,19842,Iste Pro,Grocery,5984,Uttarakhand,59526,2024-03
+6717,Not as Described,377,2024-08-22,Card,227,4,18243,Libero Pro,Home,13988,Andhra Pradesh,72972,2024-08
+5165,Damaged,81,2024-09-19,NetBanking,193,4,15786,Rerum Plus,Home,10714,Chhattisgarh,63144,2024-09
+7744,Not as Described,289,2025-01-09,Card,130,3,17840,Ducimus Max,Fashion,19453,Jharkhand,53520,2025-01
+6782,Not as Described,283,2025-01-21,UPI,152,4,28515,Iste Ultra,Books,206,Sikkim,114060,2025-01
+6217,Wrong Product,118,2025-08-19,NetBanking,114,2,5350,Sequi Pro,Home,13966,Madhya Pradesh,10700,2025-08
+7919,Wrong Product,424,2025-01-11,Card,179,3,10550,Aperiam Pro,Grocery,19575,Rajasthan,31650,2025-01
+7314,Size Issue,116,2025-10-31,UPI,128,4,7761,Velit Pro,Fashion,8307,Madhya Pradesh,31044,2025-10
+6513,Size Issue,177,2024-07-29,Card,143,2,10216,Enim Max,Electronics,6748,Telangana,20432,2024-07
+7610,Size Issue,101,2024-12-13,Card,156,2,12661,Iste Pro,Electronics,8211,Mizoram,25322,2024-12
+7169,Wrong Product,115,2025-01-05,Card,283,2,13850,Aspernatur Plus,Sports,9659,Haryana,27700,2025-01
+7902,Wrong Product,74,2025-03-12,NetBanking,275,4,7598,Modi Plus,Books,4141,Jharkhand,30392,2025-03
+5308,Damaged,455,2025-04-04,UPI,177,4,21733,Facilis Ultra,Sports,5811,Goa,86932,2025-04
+7007,Not as Described,413,2025-05-22,Card,247,2,7049,Mollitia Ultra,Sports,19166,Meghalaya,14098,2025-05
+7066,Damaged,277,2024-04-30,Card,121,3,26289,Ipsa Plus,Home,9155,Sikkim,78867,2024-04
+5547,Wrong Product,397,2024-02-14,Card,286,3,13216,Officiis Pro,Home,13743,Meghalaya,39648,2024-02
+6269,Size Issue,476,2024-02-24,COD,200,4,21217,Corrupti Pro,Fashion,4867,Odisha,84868,2024-02
+7052,Damaged,354,2024-12-12,Card,193,3,28342,Rerum Plus,Home,10714,Nagaland,85026,2024-12
+6575,Damaged,111,2025-08-30,NetBanking,212,3,14193,Quia Pro,Fashion,10044,Assam,42579,2025-08
+5454,Not as Described,191,2025-02-19,Card,145,3,17255,Accusamus Max,Fashion,5659,Uttarakhand,51765,2025-02
+5957,Wrong Product,7,2024-07-08,COD,290,1,7714,Ab Ultra,Home,19320,Uttarakhand,7714,2024-07
+5558,Wrong Product,449,2024-06-03,UPI,284,1,14842,Unde Ultra,Electronics,4734,West Bengal,14842,2024-06
+5283,Wrong Product,45,2024-06-08,Card,181,3,16026,Non Ultra,Books,1427,Nagaland,48078,2024-06
+7755,Damaged,273,2025-01-07,COD,295,3,11419,Esse Max,Sports,4773,Rajasthan,34257,2025-01
+6704,Damaged,329,2024-12-09,Card,166,1,24518,Voluptatum Ultra,Home,2693,Goa,24518,2024-12
+6089,Not as Described,350,2024-04-20,UPI,138,2,19068,Neque ,Mobiles,8088,Manipur,38136,2024-04
+6754,Not as Described,304,2025-05-06,COD,176,4,16114,Placeat Plus,Books,5647,Haryana,64456,2025-05
+6135,Not as Described,173,2024-03-13,COD,221,2,5606,Earum Pro,Mobiles,2241,Goa,11212,2024-03
+5594,Size Issue,397,2024-09-24,NetBanking,157,1,23863,Similique Max,Fashion,6690,Meghalaya,23863,2024-09
+7818,Not as Described,133,2024-05-14,Card,236,4,2160,Quas Plus,Books,1991,Meghalaya,8640,2024-05
+7366,Wrong Product,248,2025-09-07,NetBanking,163,2,2316,Ipsum Max,Grocery,19139,Maharashtra,4632,2025-09
+5298,Wrong Product,50,2024-07-31,UPI,234,1,4150,Neque Ultra,Sports,10781,Arunachal Pradesh,4150,2024-07
+6893,Wrong Product,63,2025-10-11,NetBanking,271,4,10955,Fugit ,Fashion,11442,Andhra Pradesh,43820,2025-10
+7221,Not as Described,179,2024-08-30,COD,235,3,8001,Veniam Plus,Home,5837,Chhattisgarh,24003,2024-08
+7664,Wrong Product,41,2025-10-29,Card,243,2,14252,Dolorem ,Home,12771,Jharkhand,28504,2025-10
+7398,Damaged,165,2024-07-11,NetBanking,254,1,8118,Nulla Pro,Grocery,896,Punjab,8118,2024-07

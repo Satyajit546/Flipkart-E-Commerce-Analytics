@@ -1,0 +1,499 @@
+CustomerID,State,Recency,Frequency,Monetary,ViewCount,CartCount,PurchaseCount,RFM_Segment,Churned,ChurnProbability,ChurnRisk,TopCategory,PrefPayment
+1,Bihar,5,6,293673,6,2,2,Champions,0,0.0,,Grocery,UPI
+2,Kerala,25,6,175899,3,2,3,Champions,0,0.02,Low Risk,Mobiles,NetBanking
+3,Telangana,62,4,189297,2,6,4,At Risk,0,0.02,Low Risk,Mobiles,COD
+4,Uttar Pradesh,281,2,119091,5,3,6,Lost,1,0.99,High Risk,Home,COD
+5,Goa,141,7,201634,2,2,1,Lost,1,0.97,High Risk,Fashion,UPI
+6,Goa,24,6,217406,2,2,6,Champions,0,0.02,Low Risk,Fashion,COD
+7,Uttarakhand,93,5,168316,2,2,4,At Risk,1,0.96,High Risk,Books,COD
+8,Chhattisgarh,4,6,133597,1,5,4,Champions,0,0.0,,Fashion,UPI
+9,Maharashtra,242,3,104897,5,4,3,Lost,1,0.99,High Risk,Mobiles,NetBanking
+10,Odisha,33,8,367134,6,2,2,Loyal Customers,0,0.0,,Sports,NetBanking
+11,Haryana,192,2,38306,2,3,4,Lost,1,1.0,High Risk,Sports,NetBanking
+12,Andhra Pradesh,45,5,128104,2,3,5,Loyal Customers,0,0.02,Low Risk,Electronics,NetBanking
+13,Rajasthan,137,5,260138,4,2,1,Lost,1,0.99,High Risk,Home,NetBanking
+14,Karnataka,63,5,95557,3,4,5,At Risk,0,0.03,Low Risk,Fashion,COD
+15,Tamil Nadu,22,7,148003,7,3,1,Champions,0,0.0,,Electronics,UPI
+16,Tripura,24,12,491434,2,4,2,Champions,0,0.0,,Grocery,NetBanking
+17,Gujarat,110,6,242027,3,4,5,At Risk,1,1.0,High Risk,Books,NetBanking
+18,West Bengal,1,5,243920,1,3,3,Champions,0,0.01,Low Risk,Books,COD
+19,Sikkim,148,4,196769,3,4,6,Lost,1,0.98,High Risk,Home,COD
+20,Goa,121,6,169973,1,1,3,Lost,1,0.96,High Risk,Fashion,COD
+21,Telangana,243,4,156096,2,4,4,Lost,1,1.0,High Risk,Sports,NetBanking
+22,Maharashtra,200,8,257542,0,9,3,Lost,1,1.0,High Risk,Books,COD
+23,Madhya Pradesh,268,4,55560,4,1,4,Lost,1,1.0,High Risk,Books,NetBanking
+24,West Bengal,64,5,225893,2,2,2,At Risk,0,0.01,Low Risk,Grocery,COD
+25,Bihar,33,6,251348,0,2,3,Loyal Customers,0,0.04,Low Risk,Home,UPI
+26,Haryana,30,6,267228,8,4,1,Loyal Customers,0,0.0,,Home,COD
+27,Andhra Pradesh,22,11,488101,6,5,1,Champions,0,0.02,Low Risk,Electronics,COD
+28,Maharashtra,97,3,144932,1,4,2,At Risk,1,0.98,High Risk,Mobiles,Card
+29,Gujarat,1,10,473622,3,0,2,Champions,0,0.01,Low Risk,Books,NetBanking
+30,Haryana,327,3,28088,2,2,4,Lost,1,0.99,High Risk,Books,UPI
+31,Karnataka,149,9,277616,2,9,2,Lost,1,0.98,High Risk,Books,NetBanking
+32,Uttar Pradesh,10,5,230642,2,4,3,Champions,0,0.01,Low Risk,Grocery,UPI
+33,Punjab,60,5,132067,4,4,4,At Risk,0,0.0,,Home,UPI
+34,Odisha,3,6,295608,4,5,4,Champions,0,0.0,,Grocery,UPI
+35,Assam,196,4,135959,3,3,1,Lost,1,0.99,High Risk,Home,UPI
+36,Bihar,249,5,237805,6,4,4,Lost,1,0.99,High Risk,Books,UPI
+37,Uttar Pradesh,99,7,384127,1,3,4,At Risk,1,0.99,High Risk,Books,Card
+38,West Bengal,348,3,74602,6,3,2,Lost,1,0.98,High Risk,Mobiles,UPI
+39,Andhra Pradesh,73,6,287928,3,3,5,At Risk,0,0.02,Low Risk,Mobiles,COD
+40,West Bengal,368,5,111333,1,3,8,Lost,1,0.99,High Risk,Home,COD
+41,Jharkhand,35,3,68641,6,3,4,Loyal Customers,0,0.08,Low Risk,Books,COD
+42,Chhattisgarh,46,7,261635,5,5,9,Loyal Customers,0,0.01,Low Risk,Home,COD
+43,Telangana,28,9,343846,5,4,2,Champions,0,0.01,Low Risk,Home,NetBanking
+44,Himachal Pradesh,139,5,282982,1,4,4,Lost,1,0.98,High Risk,Home,COD
+45,Nagaland,130,4,138080,1,1,3,Lost,1,0.99,High Risk,Books,NetBanking
+46,Himachal Pradesh,45,8,293931,5,7,2,Loyal Customers,0,0.02,Low Risk,Grocery,NetBanking
+47,Uttarakhand,79,7,387747,6,2,6,At Risk,0,0.01,Low Risk,Grocery,NetBanking
+48,Kerala,48,5,212762,6,2,4,Loyal Customers,0,0.01,Low Risk,Grocery,NetBanking
+49,Haryana,26,3,115428,6,2,3,Loyal Customers,0,0.01,Low Risk,Grocery,COD
+50,Arunachal Pradesh,20,10,466013,4,4,0,Champions,0,0.01,Low Risk,Grocery,UPI
+51,Meghalaya,571,1,23877,2,2,3,Potential Loyalist,1,0.98,High Risk,Books,UPI
+52,Odisha,114,11,271598,4,4,3,At Risk,1,0.98,High Risk,Books,UPI
+53,Bihar,105,2,29932,1,7,2,Potential Loyalist,1,0.97,High Risk,Grocery,UPI
+54,Nagaland,111,6,197568,4,3,1,At Risk,1,0.98,High Risk,Home,UPI
+55,Gujarat,232,7,348142,4,4,3,Lost,1,1.0,High Risk,Fashion,NetBanking
+56,Telangana,257,10,483913,4,2,4,Lost,1,0.97,High Risk,Books,Card
+57,Telangana,37,5,182401,4,2,2,Loyal Customers,0,0.0,,Mobiles,Card
+58,Telangana,582,3,134754,0,3,2,Lost,1,0.99,High Risk,Sports,UPI
+59,Chhattisgarh,71,12,328412,4,1,4,At Risk,0,0.0,,Fashion,UPI
+60,West Bengal,136,7,261983,4,5,3,Lost,1,0.98,High Risk,Home,NetBanking
+61,Tamil Nadu,130,5,101134,2,3,3,Lost,1,0.99,High Risk,Home,NetBanking
+62,Uttar Pradesh,90,5,191421,5,2,4,At Risk,1,0.98,High Risk,Sports,Card
+63,Andhra Pradesh,53,5,237833,7,3,2,Loyal Customers,0,0.02,Low Risk,Books,COD
+64,Uttarakhand,59,6,100829,4,5,1,Loyal Customers,0,0.0,,Books,NetBanking
+65,Bihar,170,3,94644,4,1,4,Lost,1,0.98,High Risk,Home,Card
+66,Kerala,32,6,170606,2,5,5,Loyal Customers,0,0.0,,Books,Card
+67,Bihar,285,2,64097,2,3,4,Lost,1,0.99,High Risk,Mobiles,UPI
+68,Maharashtra,451,5,154122,5,1,3,Lost,1,0.99,High Risk,Fashion,COD
+69,Bihar,36,7,173933,1,3,2,Loyal Customers,0,0.01,Low Risk,Grocery,COD
+70,Gujarat,59,3,87795,4,3,2,Loyal Customers,0,0.02,Low Risk,Home,COD
+71,Odisha,42,2,68622,2,5,4,Potential Loyalist,0,0.05,Low Risk,Home,UPI
+72,Punjab,79,5,101600,1,4,1,At Risk,0,0.06,Low Risk,Books,COD
+73,Sikkim,190,7,183458,4,2,2,Lost,1,1.0,High Risk,Electronics,UPI
+74,Jharkhand,132,5,161912,4,4,3,Lost,1,0.98,High Risk,Grocery,NetBanking
+75,Haryana,25,6,354602,4,4,6,Champions,0,0.02,Low Risk,Books,Card
+76,Karnataka,43,4,127457,2,3,4,Loyal Customers,0,0.04,Low Risk,Sports,NetBanking
+77,Sikkim,113,2,76050,3,5,4,Potential Loyalist,1,0.99,High Risk,Grocery,NetBanking
+78,Kerala,56,8,238984,2,1,3,Loyal Customers,0,0.0,,Grocery,Card
+79,Telangana,178,5,88969,5,1,1,Lost,1,0.96,High Risk,Sports,COD
+80,Telangana,157,7,322404,2,7,3,Lost,1,0.99,High Risk,Books,Card
+81,Chhattisgarh,77,6,238089,2,3,0,At Risk,0,0.01,Low Risk,Mobiles,UPI
+82,Telangana,155,10,437845,4,7,3,Lost,1,0.99,High Risk,Books,Card
+83,Karnataka,13,6,90844,3,5,7,Champions,0,0.0,,Books,NetBanking
+84,Maharashtra,3,8,269061,1,0,2,Champions,0,0.01,Low Risk,Fashion,COD
+85,Goa,36,1,22510,1,2,2,Potential Loyalist,0,0.06,Low Risk,Electronics,Card
+86,Nagaland,33,4,111913,5,2,4,Loyal Customers,0,0.0,,Grocery,COD
+87,Telangana,30,4,89487,2,5,1,Loyal Customers,0,0.01,Low Risk,Home,NetBanking
+88,Uttar Pradesh,512,4,93863,1,7,2,Lost,1,0.98,High Risk,Electronics,UPI
+89,Assam,456,4,164582,3,1,1,Lost,1,0.97,High Risk,Home,Card
+90,Jharkhand,3,6,516572,9,5,2,Champions,0,0.01,Low Risk,Books,Card
+91,Gujarat,198,6,260659,3,4,2,Lost,1,1.0,High Risk,Mobiles,Card
+92,Maharashtra,43,5,111739,3,4,9,Loyal Customers,0,0.01,Low Risk,Sports,COD
+93,Manipur,14,11,428973,6,6,2,Champions,0,0.02,Low Risk,Books,NetBanking
+94,Uttarakhand,97,6,147298,2,7,2,At Risk,1,0.98,High Risk,Home,COD
+95,Maharashtra,118,4,49306,1,4,1,At Risk,1,0.99,High Risk,Sports,Card
+96,Arunachal Pradesh,52,4,197126,1,1,5,Loyal Customers,0,0.03,Low Risk,Fashion,Card
+97,Chhattisgarh,148,9,279678,1,3,5,Lost,1,1.0,High Risk,Fashion,Card
+98,Maharashtra,182,8,229047,2,1,7,Lost,1,0.98,High Risk,Fashion,UPI
+99,Uttarakhand,109,3,83811,2,4,3,At Risk,1,1.0,High Risk,Mobiles,NetBanking
+100,Gujarat,25,7,390228,2,3,2,Champions,0,0.03,Low Risk,Books,NetBanking
+101,Mizoram,64,6,120854,2,3,1,At Risk,0,0.0,,Books,NetBanking
+102,Sikkim,52,4,178904,2,4,5,Loyal Customers,0,0.02,Low Risk,Sports,NetBanking
+103,Arunachal Pradesh,42,7,265340,1,4,4,Loyal Customers,0,0.0,,Grocery,NetBanking
+104,Haryana,7,5,218209,5,2,5,Champions,0,0.03,Low Risk,Fashion,NetBanking
+105,Manipur,411,3,103720,3,2,5,Lost,1,1.0,High Risk,Books,NetBanking
+106,Rajasthan,217,4,141563,4,4,7,Lost,1,1.0,High Risk,Mobiles,Card
+107,Rajasthan,16,7,240428,3,4,2,Champions,0,0.0,,Fashion,UPI
+108,Rajasthan,50,9,195160,3,3,2,Loyal Customers,0,0.01,Low Risk,Books,Card
+109,Tripura,151,4,201685,2,4,5,Lost,1,0.98,High Risk,Home,COD
+110,Jharkhand,25,3,106752,1,3,8,Loyal Customers,0,0.04,Low Risk,Fashion,COD
+111,Assam,95,8,304193,4,1,6,At Risk,1,0.98,High Risk,Books,NetBanking
+112,Jharkhand,90,6,221504,2,6,5,At Risk,1,0.88,High Risk,Books,NetBanking
+113,Uttar Pradesh,135,5,251026,1,4,5,Lost,1,1.0,High Risk,Sports,UPI
+114,Assam,132,5,128136,6,3,4,Lost,1,0.98,High Risk,Home,UPI
+115,Haryana,332,3,103982,4,6,1,Lost,1,1.0,High Risk,Sports,UPI
+116,Madhya Pradesh,33,7,340407,5,5,0,Loyal Customers,0,0.02,Low Risk,Books,COD
+117,Gujarat,99,7,360631,3,2,2,At Risk,1,0.98,High Risk,Mobiles,COD
+118,Madhya Pradesh,54,4,170615,3,5,1,Loyal Customers,0,0.0,,Home,NetBanking
+119,Meghalaya,93,9,536072,1,4,4,At Risk,1,0.97,High Risk,Home,Card
+120,Uttarakhand,21,11,549244,3,0,4,Champions,0,0.0,,Electronics,UPI
+121,Uttar Pradesh,44,6,295402,3,2,3,Loyal Customers,0,0.01,Low Risk,Home,Card
+122,Manipur,173,5,71845,0,1,5,Lost,1,0.98,High Risk,Home,NetBanking
+123,Uttar Pradesh,85,5,144044,2,4,5,At Risk,0,0.07,Low Risk,Sports,COD
+124,Andhra Pradesh,186,7,417822,3,3,5,Lost,1,0.97,High Risk,Mobiles,Card
+125,Telangana,270,6,152508,5,6,4,Lost,1,1.0,High Risk,Fashion,COD
+126,Manipur,132,6,161716,6,4,2,Lost,1,1.0,High Risk,Sports,COD
+127,Arunachal Pradesh,164,5,132696,4,1,4,Lost,1,0.98,High Risk,Sports,Card
+128,Uttar Pradesh,68,6,148542,7,3,7,At Risk,0,0.04,Low Risk,Mobiles,NetBanking
+129,Mizoram,30,7,288887,6,2,3,Loyal Customers,0,0.0,,Sports,COD
+130,Tamil Nadu,238,4,271415,5,2,4,Lost,1,0.99,High Risk,Sports,UPI
+131,Maharashtra,17,4,137608,2,4,3,Loyal Customers,0,0.01,Low Risk,Sports,Card
+132,Maharashtra,5,7,200082,4,2,5,Champions,0,0.0,,Home,COD
+133,Meghalaya,29,4,146258,3,8,4,Loyal Customers,0,0.02,Low Risk,Electronics,UPI
+134,Assam,3,5,193392,1,5,4,Champions,0,0.0,,Mobiles,COD
+135,Telangana,138,7,59301,2,3,2,Lost,1,1.0,High Risk,Home,NetBanking
+136,Arunachal Pradesh,110,2,1344,3,6,6,Potential Loyalist,1,0.96,High Risk,Grocery,Card
+137,Uttarakhand,26,6,186199,1,5,1,Champions,0,0.0,,Home,UPI
+138,Sikkim,66,8,335827,4,3,5,At Risk,0,0.0,,Sports,NetBanking
+139,Sikkim,197,8,275179,4,3,2,Lost,1,0.98,High Risk,Mobiles,COD
+140,Kerala,104,7,248038,5,5,4,At Risk,1,0.99,High Risk,Books,UPI
+141,Tamil Nadu,58,5,280610,2,4,2,Loyal Customers,0,0.03,Low Risk,Mobiles,COD
+142,Andhra Pradesh,244,2,116511,2,3,3,Lost,1,0.99,High Risk,Sports,NetBanking
+143,Punjab,25,11,592096,8,4,2,Champions,0,0.01,Low Risk,Grocery,NetBanking
+144,Kerala,43,8,416371,1,5,3,Loyal Customers,0,0.03,Low Risk,Home,COD
+145,Andhra Pradesh,70,8,318415,8,5,2,At Risk,0,0.01,Low Risk,Electronics,Card
+146,Odisha,382,2,67592,3,1,5,Lost,1,0.98,High Risk,Fashion,NetBanking
+147,Haryana,28,11,372174,2,3,2,Champions,0,0.0,,Fashion,COD
+148,Himachal Pradesh,509,2,106435,5,1,5,Lost,1,0.99,High Risk,Mobiles,NetBanking
+149,Meghalaya,49,6,100603,3,1,1,Loyal Customers,0,0.0,,Books,Card
+150,Kerala,45,5,206094,3,3,2,Loyal Customers,0,0.01,Low Risk,Books,NetBanking
+151,Nagaland,43,8,437203,4,4,5,Loyal Customers,0,0.01,Low Risk,Electronics,COD
+152,Goa,137,6,341725,4,2,6,Lost,1,0.99,High Risk,Books,NetBanking
+153,Manipur,32,5,207002,1,2,6,Loyal Customers,0,0.0,,Mobiles,COD
+154,Mizoram,13,8,272486,5,2,3,Champions,0,0.0,,Grocery,COD
+155,Sikkim,116,4,222140,2,3,5,At Risk,1,0.98,High Risk,Sports,UPI
+156,Goa,25,8,344872,1,3,1,Champions,0,0.0,,Electronics,NetBanking
+157,Chhattisgarh,101,6,300443,3,3,3,At Risk,1,1.0,High Risk,Books,NetBanking
+158,Andhra Pradesh,64,5,249894,4,4,4,At Risk,0,0.0,,Books,NetBanking
+159,Tripura,56,6,216829,3,5,2,Loyal Customers,0,0.0,,Electronics,NetBanking
+160,Tripura,10,10,349889,3,4,5,Champions,0,0.0,,Mobiles,NetBanking
+161,Gujarat,70,11,328820,5,3,2,At Risk,0,0.0,,Fashion,UPI
+162,Uttar Pradesh,15,4,129765,4,5,2,Loyal Customers,0,0.03,Low Risk,Fashion,Card
+163,Punjab,305,3,133139,3,2,2,Lost,1,1.0,High Risk,Mobiles,UPI
+164,Chhattisgarh,5,5,240600,3,3,4,Champions,0,0.01,Low Risk,Home,NetBanking
+165,Punjab,510,4,58000,3,4,3,Lost,1,1.0,High Risk,Sports,NetBanking
+166,Maharashtra,162,6,72996,3,0,1,Lost,1,0.97,High Risk,Grocery,COD
+167,Bihar,130,5,112607,0,2,5,Lost,1,0.99,High Risk,Sports,NetBanking
+168,Jharkhand,32,11,565664,6,4,4,Loyal Customers,0,0.01,Low Risk,Grocery,NetBanking
+169,Tripura,6,5,133592,6,4,1,Champions,0,0.0,,Mobiles,COD
+170,Arunachal Pradesh,14,8,292335,3,0,1,Champions,0,0.01,Low Risk,Fashion,UPI
+171,Gujarat,6,5,275651,4,2,3,Champions,0,0.02,Low Risk,Books,Card
+172,Karnataka,13,7,203137,7,4,9,Champions,0,0.0,,Grocery,COD
+173,Goa,42,6,120110,2,2,2,Loyal Customers,0,0.02,Low Risk,Grocery,COD
+174,Meghalaya,39,9,376801,2,4,5,Loyal Customers,0,0.0,,Books,COD
+175,Punjab,10,11,630020,1,2,2,Champions,0,0.01,Low Risk,Fashion,NetBanking
+176,Telangana,535,2,37314,5,5,2,Lost,1,1.0,High Risk,Home,UPI
+177,Telangana,66,7,177514,3,1,2,At Risk,0,0.02,Low Risk,Books,Card
+178,Rajasthan,33,7,187249,4,1,4,Loyal Customers,0,0.0,,Sports,NetBanking
+179,Chhattisgarh,6,5,116045,2,4,2,Champions,0,0.02,Low Risk,Books,NetBanking
+180,Punjab,15,7,241968,1,0,7,Champions,0,0.0,,Books,Card
+181,West Bengal,83,5,211357,5,4,3,At Risk,0,0.01,Low Risk,Sports,NetBanking
+183,Mizoram,3,6,204275,5,3,6,Champions,0,0.0,,Fashion,UPI
+184,Karnataka,17,5,279296,0,4,2,Champions,0,0.16,Low Risk,Fashion,COD
+185,Jharkhand,465,4,81266,3,2,6,Lost,1,1.0,High Risk,Sports,NetBanking
+186,West Bengal,15,7,373413,6,6,3,Champions,0,0.05,Low Risk,Grocery,Card
+187,Karnataka,318,3,47255,2,4,3,Lost,1,0.96,High Risk,Grocery,COD
+188,Telangana,24,12,489987,5,2,3,Champions,0,0.0,,Grocery,UPI
+189,Meghalaya,11,8,343271,1,5,6,Champions,0,0.02,Low Risk,Grocery,COD
+190,Karnataka,62,5,71699,3,3,3,At Risk,0,0.05,Low Risk,Electronics,UPI
+191,Uttarakhand,38,8,245997,5,7,2,Loyal Customers,0,0.05,Low Risk,Grocery,UPI
+192,Uttar Pradesh,19,4,290726,1,5,5,Loyal Customers,0,0.01,Low Risk,Books,Card
+193,Punjab,207,8,335949,2,5,2,Lost,1,1.0,High Risk,Home,UPI
+194,Uttar Pradesh,242,3,184082,3,5,4,Lost,1,0.94,High Risk,Books,UPI
+195,Madhya Pradesh,10,4,122845,3,2,3,Loyal Customers,0,0.0,,Home,COD
+196,Haryana,26,9,276834,4,3,4,Champions,0,0.0,,Grocery,COD
+197,Goa,107,9,366669,9,4,1,At Risk,1,0.93,High Risk,Books,UPI
+198,Himachal Pradesh,147,4,133115,4,4,2,Lost,1,1.0,High Risk,Mobiles,NetBanking
+199,Himachal Pradesh,164,8,364868,0,4,1,Lost,1,1.0,High Risk,Books,Card
+200,Punjab,175,11,389666,5,1,4,Lost,1,0.98,High Risk,Grocery,UPI
+201,Rajasthan,21,5,205418,3,3,2,Champions,0,0.01,Low Risk,Electronics,COD
+202,Tripura,150,9,366166,3,0,0,Lost,1,0.99,High Risk,Electronics,NetBanking
+203,Mizoram,150,10,497283,4,0,7,Lost,1,0.94,High Risk,Mobiles,COD
+204,Punjab,125,7,230953,3,2,3,Lost,1,1.0,High Risk,Books,UPI
+205,Goa,45,4,171855,6,6,1,Loyal Customers,0,0.03,Low Risk,Sports,Card
+206,West Bengal,132,3,111085,9,4,4,Lost,1,0.97,High Risk,Mobiles,COD
+207,Bihar,112,5,219392,2,2,3,At Risk,1,0.98,High Risk,Electronics,NetBanking
+208,Manipur,58,7,329542,5,3,2,Loyal Customers,0,0.0,,Fashion,COD
+209,Kerala,53,9,308044,4,7,5,Loyal Customers,0,0.04,Low Risk,Sports,Card
+210,Andhra Pradesh,96,6,179389,1,3,4,At Risk,1,0.97,High Risk,Sports,COD
+211,Jharkhand,198,7,167809,2,5,1,Lost,1,1.0,High Risk,Grocery,COD
+212,Madhya Pradesh,57,3,61558,6,2,7,Loyal Customers,0,0.02,Low Risk,Fashion,UPI
+213,Mizoram,55,8,361499,4,5,5,Loyal Customers,0,0.0,,Sports,COD
+214,Sikkim,24,4,131969,4,5,9,Loyal Customers,0,0.01,Low Risk,Home,Card
+215,Jharkhand,36,4,171001,5,5,1,Loyal Customers,0,0.0,,Home,NetBanking
+216,Himachal Pradesh,157,6,275321,4,4,3,Lost,1,1.0,High Risk,Books,NetBanking
+217,Uttarakhand,28,8,262320,6,1,5,Champions,0,0.0,,Grocery,NetBanking
+218,Tripura,34,8,293637,3,5,5,Loyal Customers,0,0.0,,Books,UPI
+219,Rajasthan,509,2,135807,3,4,1,Lost,1,0.97,High Risk,Home,Card
+220,Bihar,10,3,106435,2,2,4,Loyal Customers,0,0.08,Low Risk,Sports,COD
+221,Meghalaya,22,3,137694,3,5,8,Loyal Customers,0,0.0,,Sports,NetBanking
+222,Assam,27,6,367063,2,1,3,Champions,0,0.0,,Sports,Card
+223,Karnataka,9,5,215403,5,4,6,Champions,0,0.01,Low Risk,Fashion,Card
+224,Uttarakhand,113,3,117453,0,5,5,At Risk,1,0.95,High Risk,Fashion,COD
+225,Telangana,209,7,312674,4,4,6,Lost,1,0.98,High Risk,Grocery,COD
+226,West Bengal,198,7,230754,2,3,4,Lost,1,0.99,High Risk,Fashion,UPI
+227,Meghalaya,9,5,151523,4,4,2,Champions,0,0.01,Low Risk,Sports,Card
+228,Madhya Pradesh,49,6,195076,2,6,4,Loyal Customers,0,0.01,Low Risk,Mobiles,NetBanking
+229,West Bengal,3,5,54500,4,5,1,Champions,0,0.02,Low Risk,Grocery,COD
+230,Madhya Pradesh,59,5,92970,8,3,1,Loyal Customers,0,0.03,Low Risk,Sports,Card
+231,Himachal Pradesh,39,9,294445,7,5,4,Loyal Customers,0,0.01,Low Risk,Fashion,NetBanking
+232,Meghalaya,162,6,217768,1,2,4,Lost,1,1.0,High Risk,Books,COD
+233,Madhya Pradesh,55,9,468256,2,1,2,Loyal Customers,0,0.02,Low Risk,Fashion,NetBanking
+234,Gujarat,116,5,360842,2,1,4,At Risk,1,1.0,High Risk,Grocery,NetBanking
+235,Assam,27,6,311755,4,3,5,Champions,0,0.0,,Books,NetBanking
+236,Kerala,43,9,336030,0,3,3,Loyal Customers,0,0.03,Low Risk,Books,Card
+237,Mizoram,299,8,345575,2,3,5,Lost,1,1.0,High Risk,Grocery,Card
+238,West Bengal,157,7,225728,2,2,4,Lost,1,0.98,High Risk,Grocery,Card
+239,Odisha,187,6,154665,9,2,2,Lost,1,0.99,High Risk,Home,NetBanking
+240,West Bengal,265,6,185884,1,2,4,Lost,1,0.99,High Risk,Grocery,COD
+241,Rajasthan,77,5,140673,1,6,5,At Risk,0,0.06,Low Risk,Books,NetBanking
+242,Karnataka,235,4,124297,1,4,10,Lost,1,1.0,High Risk,Sports,Card
+243,Gujarat,17,7,253688,3,2,3,Champions,0,0.02,Low Risk,Electronics,COD
+244,West Bengal,348,4,103329,5,4,2,Lost,1,0.98,High Risk,Sports,Card
+245,Assam,20,11,447363,6,1,5,Champions,0,0.0,,Fashion,NetBanking
+246,Telangana,8,10,467658,4,2,5,Champions,0,0.0,,Sports,COD
+247,Odisha,119,10,236567,5,2,3,At Risk,1,0.98,High Risk,Electronics,UPI
+248,Maharashtra,14,12,375697,3,3,3,Champions,0,0.0,,Grocery,NetBanking
+249,Sikkim,2,3,65346,2,4,3,Loyal Customers,0,0.0,,Sports,COD
+250,Nagaland,279,2,15166,2,5,1,Lost,1,0.98,High Risk,Sports,NetBanking
+251,Meghalaya,136,2,25156,0,3,4,Lost,1,0.98,High Risk,Home,Card
+252,Chhattisgarh,127,9,376681,1,6,4,Lost,1,0.96,High Risk,Grocery,Card
+253,Punjab,117,5,219720,2,5,4,At Risk,1,0.94,High Risk,Books,Card
+254,Telangana,17,9,295257,4,5,4,Champions,0,0.0,,Fashion,UPI
+255,Manipur,95,6,296235,4,6,3,At Risk,1,1.0,High Risk,Books,COD
+256,Nagaland,175,11,348106,0,5,5,Lost,1,1.0,High Risk,Sports,UPI
+257,Kerala,77,5,173213,6,5,3,At Risk,0,0.0,,Home,Card
+258,West Bengal,413,3,103090,8,3,1,Lost,1,0.92,High Risk,Grocery,Card
+259,Gujarat,44,5,304928,8,4,2,Loyal Customers,0,0.0,,Sports,Card
+260,Bihar,10,7,266862,1,3,2,Champions,0,0.01,Low Risk,Books,COD
+261,Odisha,50,9,431190,3,2,1,Loyal Customers,0,0.02,Low Risk,Mobiles,UPI
+262,Haryana,73,12,530105,2,3,4,At Risk,0,0.01,Low Risk,Mobiles,NetBanking
+263,Andhra Pradesh,80,6,268483,2,5,1,At Risk,0,0.03,Low Risk,Books,Card
+264,Andhra Pradesh,15,10,422821,4,3,4,Champions,0,0.02,Low Risk,Electronics,NetBanking
+265,West Bengal,15,5,151534,3,2,6,Champions,0,0.01,Low Risk,Sports,COD
+266,Mizoram,67,8,300318,2,1,2,At Risk,0,0.01,Low Risk,Books,UPI
+267,Telangana,67,5,154015,1,4,2,At Risk,0,0.03,Low Risk,Fashion,NetBanking
+268,Mizoram,287,5,233426,6,1,5,Lost,1,0.96,High Risk,Books,COD
+269,Telangana,339,5,159513,2,3,1,Lost,1,0.98,High Risk,Sports,COD
+270,Karnataka,83,4,170496,2,4,2,At Risk,0,0.03,Low Risk,Mobiles,Card
+271,Tamil Nadu,4,10,331240,5,5,2,Champions,0,0.0,,Books,COD
+272,Tamil Nadu,108,4,180382,1,5,2,At Risk,1,0.98,High Risk,Home,COD
+273,Rajasthan,123,10,596917,2,4,0,Lost,1,0.92,High Risk,Home,NetBanking
+274,Nagaland,69,7,424290,1,2,8,At Risk,0,0.02,Low Risk,Books,COD
+275,Chhattisgarh,194,7,61008,4,6,2,Lost,1,0.96,High Risk,Books,NetBanking
+276,Haryana,29,9,268843,3,2,2,Champions,0,0.0,,Electronics,NetBanking
+277,Sikkim,279,7,407071,4,2,5,Lost,1,0.99,High Risk,Books,Card
+278,Telangana,501,1,37846,6,2,8,Potential Loyalist,1,0.96,High Risk,Sports,UPI
+279,Mizoram,58,6,292876,5,2,2,Loyal Customers,0,0.0,,Fashion,Card
+280,Andhra Pradesh,314,5,442142,3,5,4,Lost,1,0.98,High Risk,Fashion,UPI
+281,Haryana,9,4,236257,2,4,4,Loyal Customers,0,0.0,,Sports,COD
+282,Punjab,126,6,165742,5,4,4,Lost,1,1.0,High Risk,Fashion,UPI
+283,Sikkim,55,8,340943,4,1,7,Loyal Customers,0,0.0,,Sports,UPI
+284,Bihar,375,4,193793,6,2,4,Lost,1,0.99,High Risk,Mobiles,NetBanking
+285,Uttar Pradesh,42,5,139344,2,3,3,Loyal Customers,0,0.02,Low Risk,Sports,Card
+286,Mizoram,206,6,323407,1,2,3,Lost,1,0.99,High Risk,Books,UPI
+287,Tamil Nadu,189,7,239946,5,3,3,Lost,1,0.99,High Risk,Home,COD
+288,Gujarat,148,5,223999,4,3,3,Lost,1,1.0,High Risk,Home,NetBanking
+289,Jharkhand,212,6,342252,8,2,2,Lost,1,0.98,High Risk,Mobiles,Card
+290,Tamil Nadu,434,4,172481,3,3,2,Lost,1,0.98,High Risk,Books,COD
+291,Uttarakhand,37,5,149545,4,3,2,Loyal Customers,0,0.0,,Mobiles,NetBanking
+292,Tamil Nadu,1,8,292084,7,3,0,Champions,0,0.0,,Grocery,Card
+293,Kerala,132,10,347637,0,2,2,Lost,1,0.98,High Risk,Mobiles,UPI
+294,Odisha,43,11,426093,0,5,2,Loyal Customers,0,0.13,Low Risk,Books,NetBanking
+295,Arunachal Pradesh,38,7,208785,2,1,2,Loyal Customers,0,0.0,,Grocery,UPI
+296,Madhya Pradesh,24,6,156520,3,4,3,Champions,0,0.02,Low Risk,Home,COD
+297,Gujarat,165,7,368903,2,1,5,Lost,1,1.0,High Risk,Books,UPI
+298,Arunachal Pradesh,214,9,333708,4,2,5,Lost,1,0.98,High Risk,Mobiles,NetBanking
+299,Assam,10,5,141352,1,4,4,Champions,0,0.03,Low Risk,Sports,UPI
+300,Telangana,37,8,257483,4,5,1,Loyal Customers,0,0.0,,Home,NetBanking
+301,Uttarakhand,9,6,385783,4,9,4,Champions,0,0.05,Low Risk,Fashion,UPI
+302,Odisha,272,5,179197,2,8,4,Lost,1,0.98,High Risk,Fashion,NetBanking
+303,Chhattisgarh,152,7,370489,1,4,2,Lost,1,0.99,High Risk,Home,UPI
+304,Haryana,100,6,210563,1,2,2,At Risk,1,0.97,High Risk,Books,COD
+305,Uttarakhand,54,8,251039,5,6,4,Loyal Customers,0,0.02,Low Risk,Books,UPI
+306,Uttar Pradesh,154,3,132477,4,3,5,Lost,1,0.99,High Risk,Mobiles,COD
+307,Maharashtra,73,4,93771,2,2,5,At Risk,0,0.01,Low Risk,Mobiles,Card
+308,Rajasthan,16,6,150035,0,3,2,Champions,0,0.04,Low Risk,Books,NetBanking
+309,Mizoram,123,11,619100,6,2,2,Lost,1,0.94,High Risk,Fashion,Card
+310,Rajasthan,150,5,179482,3,0,4,Lost,1,0.94,High Risk,Home,UPI
+311,West Bengal,183,6,187871,1,6,6,Lost,1,0.98,High Risk,Fashion,NetBanking
+312,Odisha,18,4,29050,1,4,4,Loyal Customers,0,0.12,Low Risk,Books,NetBanking
+313,Mizoram,356,3,181864,1,2,1,Lost,1,0.97,High Risk,Grocery,Card
+314,Gujarat,172,8,440044,3,1,3,Lost,1,0.99,High Risk,Mobiles,NetBanking
+315,West Bengal,136,5,124535,4,2,4,Lost,1,0.95,High Risk,Mobiles,Card
+316,Chhattisgarh,11,5,62848,2,5,5,Champions,0,0.04,Low Risk,Home,UPI
+317,Gujarat,120,7,287359,4,0,3,Lost,1,0.99,High Risk,Home,NetBanking
+318,Punjab,161,3,146864,1,3,2,Lost,1,0.96,High Risk,Sports,UPI
+319,Sikkim,19,8,354397,5,7,3,Champions,0,0.04,Low Risk,Books,Card
+320,Rajasthan,86,8,372573,3,2,1,At Risk,0,0.04,Low Risk,Home,COD
+321,Punjab,671,1,23049,3,3,4,Potential Loyalist,1,0.99,High Risk,Home,UPI
+322,Tripura,20,8,199285,3,3,4,Champions,0,0.01,Low Risk,Books,NetBanking
+323,Bihar,61,3,18045,1,2,4,At Risk,0,0.11,Low Risk,Sports,COD
+324,Madhya Pradesh,29,8,339248,7,2,4,Champions,0,0.02,Low Risk,Books,NetBanking
+325,Andhra Pradesh,29,4,172205,2,6,5,Loyal Customers,0,0.01,Low Risk,Books,UPI
+326,Uttarakhand,24,4,135952,4,5,6,Loyal Customers,0,0.01,Low Risk,Fashion,NetBanking
+327,Andhra Pradesh,338,4,94154,5,2,2,Lost,1,0.96,High Risk,Sports,COD
+328,Uttar Pradesh,134,4,167554,3,2,1,Lost,1,0.97,High Risk,Sports,COD
+329,Goa,321,7,279243,5,4,3,Lost,1,1.0,High Risk,Home,Card
+330,Madhya Pradesh,96,7,215099,2,2,2,At Risk,1,0.98,High Risk,Books,Card
+331,Mizoram,21,9,416481,1,3,1,Champions,0,0.01,Low Risk,Grocery,UPI
+332,Sikkim,82,8,378546,1,5,2,At Risk,0,0.02,Low Risk,Books,NetBanking
+333,Himachal Pradesh,20,3,82490,1,6,3,Loyal Customers,0,0.06,Low Risk,Home,COD
+334,Uttar Pradesh,304,3,75929,1,3,4,Lost,1,0.98,High Risk,Books,NetBanking
+335,Haryana,2,9,366010,2,3,4,Champions,0,0.01,Low Risk,Home,UPI
+336,Uttarakhand,67,5,230410,4,3,2,At Risk,0,0.0,,Grocery,COD
+337,Telangana,196,6,233353,3,3,2,Lost,1,0.98,High Risk,Home,COD
+338,Arunachal Pradesh,135,10,450841,4,3,1,Lost,1,0.97,High Risk,Sports,UPI
+339,Meghalaya,66,9,120431,2,3,1,At Risk,0,0.0,,Grocery,COD
+340,Haryana,149,8,341995,4,6,6,Lost,1,1.0,High Risk,Mobiles,COD
+341,Goa,256,4,330357,6,7,3,Lost,1,1.0,High Risk,Sports,Card
+342,Arunachal Pradesh,25,11,298947,3,5,6,Champions,0,0.0,,Electronics,UPI
+343,West Bengal,213,10,397537,3,4,2,Lost,1,0.98,High Risk,Home,NetBanking
+344,Manipur,31,6,283784,3,3,4,Loyal Customers,0,0.01,Low Risk,Fashion,COD
+345,Uttar Pradesh,15,4,155418,9,1,5,Loyal Customers,0,0.0,,Home,COD
+346,Uttar Pradesh,155,5,162790,5,8,2,Lost,1,0.99,High Risk,Electronics,Card
+347,Kerala,22,12,371049,3,3,2,Champions,0,0.0,,Grocery,Card
+348,Tamil Nadu,87,5,188984,4,3,1,At Risk,0,0.16,Low Risk,Mobiles,COD
+349,Andhra Pradesh,74,5,125643,6,3,7,At Risk,0,0.04,Low Risk,Electronics,NetBanking
+350,Manipur,11,10,306962,3,5,7,Champions,0,0.0,,Fashion,Card
+351,Madhya Pradesh,163,5,169331,7,3,2,Lost,1,0.98,High Risk,Mobiles,Card
+352,Maharashtra,280,4,167083,2,2,5,Lost,1,1.0,High Risk,Sports,UPI
+353,Mizoram,36,5,216570,4,4,1,Loyal Customers,0,0.02,Low Risk,Electronics,NetBanking
+354,Nagaland,356,3,115530,0,3,1,Lost,1,0.93,High Risk,Home,UPI
+355,Chhattisgarh,5,8,339279,2,6,5,Champions,0,0.02,Low Risk,Books,NetBanking
+356,Uttarakhand,458,2,98400,3,1,2,Lost,1,0.99,High Risk,Grocery,Card
+357,Kerala,190,4,116113,3,2,2,Lost,1,0.98,High Risk,Sports,NetBanking
+358,West Bengal,64,7,158610,2,1,1,At Risk,0,0.01,Low Risk,Electronics,COD
+359,Haryana,113,6,416437,7,4,2,At Risk,1,0.9,High Risk,Electronics,UPI
+360,Mizoram,130,4,129556,3,2,1,Lost,1,1.0,High Risk,Sports,NetBanking
+361,Manipur,8,6,208099,9,2,1,Champions,0,0.0,,Fashion,COD
+362,Arunachal Pradesh,31,10,498088,4,5,5,Loyal Customers,0,0.0,,Mobiles,COD
+363,Arunachal Pradesh,87,5,210076,6,4,6,At Risk,0,0.06,Low Risk,Home,Card
+364,Andhra Pradesh,291,6,333903,2,4,6,Lost,1,0.96,High Risk,Electronics,COD
+365,Nagaland,74,9,387492,1,4,6,At Risk,0,0.02,Low Risk,Mobiles,NetBanking
+366,Odisha,148,5,266094,5,4,4,Lost,1,0.98,High Risk,Home,Card
+367,Arunachal Pradesh,62,4,127235,6,5,5,At Risk,0,0.04,Low Risk,Electronics,UPI
+368,Arunachal Pradesh,15,6,145697,4,1,4,Champions,0,0.0,,Mobiles,UPI
+369,Jharkhand,196,4,99123,2,2,4,Lost,1,0.98,High Risk,Fashion,Card
+370,Chhattisgarh,77,8,319492,5,5,7,At Risk,0,0.01,Low Risk,Mobiles,NetBanking
+371,Himachal Pradesh,469,1,68556,3,4,5,Potential Loyalist,1,0.96,High Risk,Grocery,UPI
+372,Mizoram,62,10,380401,2,4,2,At Risk,0,0.0,,Grocery,UPI
+373,Uttarakhand,206,2,136789,3,4,1,Lost,1,0.98,High Risk,Mobiles,NetBanking
+374,Tamil Nadu,10,7,208120,6,8,5,Champions,0,0.05,Low Risk,Electronics,UPI
+375,Mizoram,118,7,218102,6,4,3,At Risk,1,0.99,High Risk,Fashion,Card
+376,Rajasthan,129,7,133603,2,4,3,Lost,1,1.0,High Risk,Mobiles,UPI
+377,Andhra Pradesh,248,10,284033,4,2,0,Lost,1,0.97,High Risk,Sports,Card
+378,Arunachal Pradesh,350,7,260634,1,4,3,Lost,1,1.0,High Risk,Books,COD
+379,Sikkim,59,7,252147,2,0,2,Loyal Customers,0,0.05,Low Risk,Mobiles,UPI
+380,Assam,2,10,308189,3,4,3,Champions,0,0.0,,Fashion,Card
+381,Karnataka,92,8,289340,6,2,3,At Risk,1,0.96,High Risk,Mobiles,NetBanking
+382,Telangana,198,2,126924,2,5,6,Lost,1,0.98,High Risk,Books,NetBanking
+383,Telangana,58,12,373646,4,2,1,Loyal Customers,0,0.0,,Mobiles,COD
+384,Rajasthan,8,7,176622,6,4,3,Champions,0,0.0,,Books,Card
+385,Gujarat,39,7,125041,5,4,1,Loyal Customers,0,0.02,Low Risk,Grocery,COD
+386,Mizoram,167,7,420343,5,0,3,Lost,1,0.99,High Risk,Mobiles,Card
+387,Uttarakhand,437,4,200719,5,2,5,Lost,1,0.97,High Risk,Books,NetBanking
+388,Telangana,330,4,95426,3,5,4,Lost,1,0.99,High Risk,Mobiles,NetBanking
+389,Punjab,75,6,203103,2,0,2,At Risk,0,0.01,Low Risk,Grocery,Card
+390,Mizoram,13,8,216014,4,0,3,Champions,0,0.01,Low Risk,Books,NetBanking
+391,Arunachal Pradesh,54,6,225363,5,2,4,Loyal Customers,0,0.02,Low Risk,Books,UPI
+392,Jharkhand,52,3,140538,6,1,4,Loyal Customers,0,0.04,Low Risk,Mobiles,COD
+393,West Bengal,141,4,102132,5,2,2,Lost,1,0.99,High Risk,Books,UPI
+394,Maharashtra,151,3,84628,5,4,2,Lost,1,0.99,High Risk,Mobiles,UPI
+395,Tamil Nadu,676,1,23340,4,3,2,Potential Loyalist,1,0.99,High Risk,Mobiles,Card
+396,Andhra Pradesh,159,2,104469,3,2,3,Lost,1,0.99,High Risk,Mobiles,Card
+397,Meghalaya,330,6,189420,3,5,7,Lost,1,1.0,High Risk,Fashion,UPI
+398,Madhya Pradesh,194,6,181604,2,2,5,Lost,1,0.99,High Risk,Sports,NetBanking
+399,Telangana,108,5,223390,1,3,8,At Risk,1,0.99,High Risk,Grocery,COD
+400,Manipur,139,5,166317,2,3,4,Lost,1,1.0,High Risk,Fashion,Card
+401,Telangana,261,5,171660,3,4,2,Lost,1,1.0,High Risk,Fashion,NetBanking
+402,Andhra Pradesh,40,5,281194,1,3,3,Loyal Customers,0,0.05,Low Risk,Sports,COD
+403,Chhattisgarh,38,7,269316,7,5,4,Loyal Customers,0,0.01,Low Risk,Electronics,UPI
+404,Manipur,22,4,183755,4,3,4,Loyal Customers,0,0.01,Low Risk,Sports,COD
+405,Tamil Nadu,580,1,49678,0,3,3,Potential Loyalist,1,0.99,High Risk,Mobiles,UPI
+406,Karnataka,96,6,174807,3,4,2,At Risk,1,0.98,High Risk,Fashion,UPI
+407,West Bengal,290,4,83907,2,2,3,Lost,1,0.98,High Risk,Books,Card
+408,Sikkim,210,5,147996,5,2,1,Lost,1,0.98,High Risk,Mobiles,Card
+409,Assam,92,8,236236,4,1,1,At Risk,1,0.96,High Risk,Books,UPI
+410,Uttarakhand,26,8,255288,3,4,1,Champions,0,0.0,,Mobiles,NetBanking
+411,Nagaland,86,6,153738,1,3,3,At Risk,0,0.06,Low Risk,Fashion,NetBanking
+412,Haryana,95,13,434785,2,2,8,At Risk,1,0.87,High Risk,Electronics,Card
+413,Meghalaya,195,5,163814,2,2,7,Lost,1,0.99,High Risk,Sports,UPI
+414,Bihar,180,9,349220,4,2,6,Lost,1,0.99,High Risk,Books,Card
+415,Bihar,151,6,114527,3,3,3,Lost,1,0.96,High Risk,Grocery,UPI
+416,Chhattisgarh,184,5,251852,6,2,3,Lost,1,0.97,High Risk,Mobiles,NetBanking
+417,Tamil Nadu,79,5,233793,3,4,2,At Risk,0,0.0,,Mobiles,Card
+418,Telangana,113,4,189506,3,5,1,At Risk,1,1.0,High Risk,Mobiles,Card
+419,Karnataka,22,5,138321,3,3,3,Champions,0,0.02,Low Risk,Books,UPI
+420,Arunachal Pradesh,31,4,103895,7,2,6,Loyal Customers,0,0.08,Low Risk,Grocery,UPI
+421,West Bengal,24,8,331784,3,8,1,Champions,0,0.04,Low Risk,Fashion,UPI
+422,Assam,166,6,205929,5,2,4,Lost,1,0.99,High Risk,Mobiles,NetBanking
+423,Sikkim,21,2,153105,2,2,1,New Customers,0,0.03,Low Risk,Electronics,NetBanking
+424,Rajasthan,7,7,273185,4,1,4,Champions,0,0.01,Low Risk,Books,NetBanking
+425,Himachal Pradesh,18,6,186778,1,4,3,Champions,0,0.02,Low Risk,Grocery,COD
+426,Jharkhand,271,4,158199,1,5,3,Lost,1,0.97,High Risk,Sports,COD
+427,Karnataka,364,6,213255,3,2,3,Lost,1,1.0,High Risk,Home,COD
+428,Odisha,74,7,387887,4,5,1,At Risk,0,0.0,,Sports,NetBanking
+429,Meghalaya,35,4,114372,6,5,5,Loyal Customers,0,0.02,Low Risk,Sports,Card
+430,Nagaland,65,4,60911,3,1,3,At Risk,0,0.02,Low Risk,Home,Card
+431,West Bengal,264,3,109819,2,8,3,Lost,1,0.99,High Risk,Books,NetBanking
+432,Telangana,110,8,376902,4,5,2,At Risk,1,0.97,High Risk,Fashion,NetBanking
+433,Tamil Nadu,194,5,334982,5,6,3,Lost,1,1.0,High Risk,Mobiles,Card
+434,Gujarat,301,3,134475,3,5,2,Lost,1,0.99,High Risk,Fashion,Card
+435,Bihar,24,3,198936,3,3,3,Loyal Customers,0,0.0,,Home,COD
+436,Rajasthan,63,11,471404,3,1,5,At Risk,0,0.01,Low Risk,Electronics,Card
+437,Uttarakhand,336,5,145240,1,2,3,Lost,1,1.0,High Risk,Books,Card
+438,Tripura,14,10,381333,2,0,3,Champions,0,0.01,Low Risk,Home,UPI
+439,Uttarakhand,144,5,118858,3,3,2,Lost,1,0.96,High Risk,Books,COD
+440,Tripura,140,6,371485,4,3,6,Lost,1,0.98,High Risk,Books,COD
+441,Telangana,148,4,88582,5,4,6,Lost,1,1.0,High Risk,Grocery,Card
+442,Meghalaya,8,10,493235,5,0,4,Champions,0,0.02,Low Risk,Grocery,COD
+443,Assam,132,4,108790,5,4,1,Lost,1,0.98,High Risk,Home,Card
+444,Tripura,147,7,444606,3,6,5,Lost,1,1.0,High Risk,Home,UPI
+445,Uttar Pradesh,209,5,263246,5,6,3,Lost,1,0.99,High Risk,Grocery,COD
+446,Chhattisgarh,145,7,176720,4,3,2,Lost,1,1.0,High Risk,Fashion,NetBanking
+447,Assam,29,8,248893,7,4,0,Champions,0,0.01,Low Risk,Grocery,NetBanking
+448,Rajasthan,207,4,54348,3,1,5,Lost,1,0.99,High Risk,Mobiles,Card
+449,West Bengal,51,9,273878,1,0,5,Loyal Customers,0,0.01,Low Risk,Fashion,UPI
+450,Tamil Nadu,181,6,186104,1,2,3,Lost,1,0.99,High Risk,Fashion,COD
+451,Tamil Nadu,154,6,132410,3,5,5,Lost,1,0.99,High Risk,Mobiles,COD
+452,Chhattisgarh,8,11,434771,4,4,1,Champions,0,0.01,Low Risk,Grocery,UPI
+453,Kerala,13,7,268196,2,1,3,Champions,0,0.01,Low Risk,Mobiles,Card
+454,Odisha,40,8,404083,4,1,4,Loyal Customers,0,0.0,,Fashion,NetBanking
+455,Goa,36,7,289892,8,4,5,Loyal Customers,0,0.0,,Sports,Card
+456,Himachal Pradesh,144,3,117470,5,5,3,Lost,1,0.97,High Risk,Grocery,Card
+458,Punjab,269,4,96890,3,2,5,Lost,1,0.99,High Risk,Books,NetBanking
+459,Karnataka,313,10,370950,3,1,6,Lost,1,1.0,High Risk,Mobiles,NetBanking
+460,Sikkim,126,4,138394,4,1,3,Lost,1,0.99,High Risk,Mobiles,UPI
+461,Assam,252,7,304289,2,10,1,Lost,1,0.97,High Risk,Sports,UPI
+462,Andhra Pradesh,257,7,272054,3,5,2,Lost,1,0.98,High Risk,Grocery,UPI
+463,Gujarat,9,3,120642,2,3,0,Loyal Customers,0,0.0,,Home,COD
+464,Manipur,201,8,231711,3,4,2,Lost,1,1.0,High Risk,Fashion,NetBanking
+465,Himachal Pradesh,5,7,248806,5,5,4,Champions,0,0.0,,Home,UPI
+466,Maharashtra,13,10,228770,1,3,6,Champions,0,0.0,,Mobiles,UPI
+467,Kerala,74,6,346127,3,0,5,At Risk,0,0.01,Low Risk,Home,UPI
+468,Andhra Pradesh,105,6,133980,9,1,2,At Risk,1,0.94,High Risk,Mobiles,COD
+469,Madhya Pradesh,571,2,36987,4,0,5,Lost,1,0.99,High Risk,Sports,NetBanking
+470,Uttar Pradesh,37,6,64103,4,3,3,Loyal Customers,0,0.04,Low Risk,Mobiles,Card
+471,Himachal Pradesh,47,4,176988,4,2,4,Loyal Customers,0,0.03,Low Risk,Mobiles,UPI
+472,Sikkim,18,6,187780,3,0,4,Champions,0,0.0,,Books,NetBanking
+473,Punjab,46,13,518031,4,1,5,Loyal Customers,0,0.0,,Electronics,NetBanking
+474,Punjab,187,9,476577,3,7,4,Lost,1,0.99,High Risk,Home,Card
+475,Mizoram,37,10,329234,4,5,4,Loyal Customers,0,0.0,,Books,COD
+476,Odisha,259,6,300581,2,1,3,Lost,1,1.0,High Risk,Home,COD
+477,Chhattisgarh,86,3,125896,1,3,0,At Risk,0,0.22,Low Risk,Sports,UPI
+478,Haryana,162,5,59505,4,3,3,Lost,1,0.97,High Risk,Books,Card
+479,Manipur,8,7,184922,4,2,7,Champions,0,0.01,Low Risk,Books,Card
+480,Tamil Nadu,5,5,113082,3,3,6,Champions,0,0.03,Low Risk,Electronics,NetBanking
+481,Gujarat,360,5,111756,3,2,5,Lost,1,1.0,High Risk,Books,Card
+482,Tripura,237,4,67501,0,2,3,Lost,1,0.99,High Risk,Sports,COD
+483,Haryana,208,5,221178,3,2,6,Lost,1,0.98,High Risk,Home,UPI
+484,Nagaland,50,7,245904,1,1,0,Loyal Customers,0,0.01,Low Risk,Sports,Card
+485,Goa,25,5,218546,5,3,7,Champions,0,0.01,Low Risk,Fashion,COD
+486,Assam,28,8,224316,8,3,5,Champions,0,0.0,,Books,NetBanking
+487,Uttarakhand,170,9,311075,1,3,6,Lost,1,0.98,High Risk,Fashion,UPI
+488,Tripura,53,9,388506,7,3,0,Loyal Customers,0,0.02,Low Risk,Home,NetBanking
+489,Punjab,151,5,149907,3,5,6,Lost,1,0.99,High Risk,Mobiles,COD
+490,Manipur,40,8,200009,3,1,4,Loyal Customers,0,0.01,Low Risk,Sports,Card
+491,Madhya Pradesh,222,4,206718,3,3,5,Lost,1,0.98,High Risk,Books,NetBanking
+492,Sikkim,23,9,423617,3,2,2,Champions,0,0.0,,Fashion,UPI
+493,Assam,435,6,166254,3,2,3,Lost,1,0.98,High Risk,Mobiles,UPI
+494,Madhya Pradesh,204,5,298487,3,2,2,Lost,1,1.0,High Risk,Books,UPI
+495,Nagaland,459,2,54577,4,4,2,Lost,1,0.98,High Risk,Grocery,Card
+496,Punjab,56,2,50021,4,4,5,Potential Loyalist,0,0.02,Low Risk,Sports,Card
+497,Chhattisgarh,404,7,87850,1,2,1,Lost,1,0.98,High Risk,Electronics,NetBanking
+498,Telangana,1,5,321506,7,3,3,Champions,0,0.02,Low Risk,Books,UPI
+499,Gujarat,79,5,220995,5,5,2,At Risk,0,0.02,Low Risk,Electronics,NetBanking
+500,Haryana,429,3,94674,1,1,4,Lost,1,1.0,High Risk,Sports,UPI
